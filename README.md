@@ -10,7 +10,7 @@ One to One relationship using XOrm library
 
 ### Entity relationship diagram
 <p float="left">
-<img src="https://github.com/CamiloDelReal/xorm_local_demo_one/blob/develop/design/exported_diagrams/persistence.jpg" width="80%" height="80%" />
+<img src="https://github.com/CamiloDelReal/xorm_local_demo_one/blob/develop/design/exported_diagrams/persistence.jpg" width="50%" height="50%" />
 </p>
 
 ### Entities definition
