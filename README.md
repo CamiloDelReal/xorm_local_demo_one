@@ -1,5 +1,5 @@
 # XOrm persistance with One to One relationship
-One to One relationship using XOrm library
+One entity using XOrm library
 
 ### Features
 - Members
