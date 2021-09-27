@@ -4,8 +4,6 @@ One to One relationship using XOrm library
 ### Features
 - Members
   * CRUD operations
-- Departments
-  * CRUD operations
 - MVVM architecture
 
 ### Entity relationship diagram
