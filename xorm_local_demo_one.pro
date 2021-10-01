@@ -90,7 +90,7 @@ android {
         $$PWD/android/gradlew.bat \
         $$PWD/android/build.gradle \
         $$PWD/android/res/values/libs.xml \
-        $$PWD/android/res/drawable/splash.xml \
+        $$PWD/android/res/drawable/splashscreen.xml \
         $$PWD/android/res/mipmap-ldpi/icon_launcher.png \
         $$PWD/android/res/mipmap-mdpi/icon_launcher.png \
         $$PWD/android/res/mipmap-hdpi/icon_launcher.png \

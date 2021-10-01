@@ -25,8 +25,6 @@
             <!-- Used to specify custom system library path to run with local system libs -->
             <!--            <meta-data android:name="android.app.system_libs_prefix" android:value="/system/lib/"/>-->
             <!-- Splash screen -->
-            <meta-data android:name="android.app.splash_screen_drawable" android:resource="@drawable/splash"/>
-            <meta-data android:name="android.app.splash_screen_sticky" android:value="true"/>
             <!-- Splash screen -->
             <!-- Background running -->
             <!-- Warning: changing this value to true may cause unexpected crashes if the
@@ -47,6 +45,8 @@
                 -->
             <meta-data android:name="android.app.extract_android_style" android:value="minimal"/>
             <!-- extract android style -->
+            <meta-data android:name="android.app.splash_screen_drawable" android:resource="@drawable/splashscreen"/>
+            <meta-data android:name="android.app.splash_screen_sticky" android:value="true"/>
         </activity>
         <!-- For adding service(s) please check: https://wiki.qt.io/AndroidServices -->
     </application>
