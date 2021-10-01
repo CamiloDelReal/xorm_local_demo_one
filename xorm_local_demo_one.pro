@@ -82,7 +82,6 @@ DISTFILES += \
 
 ##************  Android Configurations  ************************************************************
 android {
-    QT += androidextras
     DISTFILES += \
         $$PWD/android/AndroidManifest.xml \
         $$PWD/android/gradle/wrapper/gradle-wrapper.jar \
